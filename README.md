@@ -49,18 +49,11 @@ Building AI-powered systems end-to-end: from infrastructure to intelligent agent
 
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shunya1135&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunya1135&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shunya1135&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shunya1135&theme=tokyonight&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shunya1135&layout=compact&theme=tokyonight&hide_border=true)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=shunya1135&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=shunya1135&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
