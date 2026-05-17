@@ -49,7 +49,7 @@ Building AI-powered systems end-to-end: from infrastructure to intelligent agent
 
 ### Awards
 
-**Go Academy Drive 最優秀賞** — CyberAgent (2026)
+**Go Academy Drive - Best Award** (CyberAgent, 2026)
 
 ---
 
